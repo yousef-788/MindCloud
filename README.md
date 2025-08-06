@@ -19,7 +19,7 @@ Simple math-based problem that deals with calculating the volume percentage of d
 Finds the maximum possible GCD among pairs in a range. Tests understanding of number theory and brute-force optimization.
 
 ---
-![Tasks Screenshot]([https://github.com/yousef-788/MindCloud/blob/main/Tasks/C%2B%2B/assets/Validation.png](https://github.com/yousef-788/MindCloud/blob/main/C%2B%2B%20Tasks/assets/Validation.png))
+![Tasks Screenshot](https://github.com/yousef-788/MindCloud/blob/main/C%2B%2B%20Tasks/assets/Validation.png)
 ---
 
 ## 💻 Author
