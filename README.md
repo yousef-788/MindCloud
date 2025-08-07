@@ -1,7 +1,5 @@
 # C++ Tasks
-
-## Included Tasks
-
+---
 ### 📁 Anton_and_Digits.cpp  
 Solves a logical puzzle involving digits and conditions, focusing on constraints handling.
 
