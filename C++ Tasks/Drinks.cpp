@@ -17,12 +17,18 @@ void cocktail(int *arr, int n)
 int main()
 {
     int n;
-    cin >> n;
+    do
+    {
+        cin >> n;
+    } while (n < 1 || n > 100);
+
     int arr[100];
     for (int i = 0; i < n; i++)
     {
-
-        cin >> arr[i];
+        do
+        {
+            cin >> arr[i];
+        } while (arr[i] < 0 || arr[i] > 100);
     }
 
     cocktail(arr, n);

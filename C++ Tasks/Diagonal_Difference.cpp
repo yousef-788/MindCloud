@@ -14,7 +14,10 @@ int main()
     {
         for (int j = 0; j < n; j++)
         {
-            cin >> arr[i][j];
+            do
+            {
+                cin >> arr[i][j];
+            } while (arr[i][j] < -100 || arr[i][j] > 100);
         }
     }
 

@@ -25,7 +25,10 @@ int main()
     int arr[4];
     for (int i = 0; i < 4; i++)
     {
-        cin >> arr[i];
+        do
+        {
+            cin >> arr[i];
+        } while (arr[i] < 0 || arr[i] > 5000000);
     }
     Anton(arr);
     return 0;

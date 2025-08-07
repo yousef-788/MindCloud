@@ -1,13 +1,22 @@
 #include <iostream>
 using namespace std;
 
-int main() {
+int main()
+{
     int t;
-    cin >> t;
-    while (t--) {
+    do
+    {
+        cin >> t;
+    } while (t < 1 || t > 100);
+
+    while (t--)
+    {
         int n;
-        cin >> n;
-        cout << n/2 << endl;
+        do
+        {
+            cin >> n;
+        } while (n < 2 || n > 1000000);
+        cout << n / 2 << endl;
     }
     return 0;
 }
