@@ -1,5 +1,5 @@
 # C++ Tasks
----
+
 ## Included Tasks
 
 ### 📁 Anton_and_Digits.cpp  
