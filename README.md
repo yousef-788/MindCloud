@@ -16,6 +16,15 @@
 ### 📁 Image_Editing_Pillow.py  
 ### 📁 Matrix_Script.py 
 ---
+# Python OOP Tasks
+
+### 📁 Reports
+- Shallow_vs_Deep_Copy_Report  
+- Multiple_Inheritance_Report  
+
+### 📁 voting_system.py  
+### 📁 class_inheritance.py 
+---
 ## 💻 Author
 
 **Yousef Hamdy**  
